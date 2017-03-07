@@ -1,0 +1,26 @@
+
+Acorn 10 10
+Almond 10 10
+Apple  10 10
+Bambara-groundnut 0 10
+Banana 10 10
+Barley 10 10
+Beech 10 10
+Black 10 10
+Brazil-nut 10 10
+Bread  10 10
+Breadnut 10 10
+Buckwheat 10 10
+Candlenut 10 10
+Carrot  10 10
+Cashew 10 10
+Cattail 10 10
+Celery  10 10
+Chana-dal 10 10
+Chestnuts 10 10
+Chia 10 10
+Chocolates  12 12.5
+Flour   12 10
+Mayoneisse 10 10
+Sugar   10   5.0
+Yogurt  11  1
